@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore6.TemporalTables.API", "EFCore6.TemporalTables.API\EFCore6.TemporalTables.API.csproj", "{12933F51-7169-49AB-81EC-FFAF8691818F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C0EBD5F6-4C85-4B17-AC81-C1D2399BE24E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12933F51-7169-49AB-81EC-FFAF8691818F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12933F51-7169-49AB-81EC-FFAF8691818F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12933F51-7169-49AB-81EC-FFAF8691818F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12933F51-7169-49AB-81EC-FFAF8691818F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2AC8A62-0D8C-46F3-ADA9-895895BB0062}
+	EndGlobalSection
+EndGlobal
